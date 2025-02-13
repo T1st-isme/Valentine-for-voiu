@@ -103,8 +103,7 @@ body {
 }
 
 .idea-5 span,
-.idea-6 span,
-.wish-hbd span {
+.idea-6 span {
     display: inline-block;
 }
 
@@ -214,12 +213,7 @@ body {
 .wish-hbd {
     font-size: 3em;
     margin: 0;
-    letter-spacing: 5px;
     /* text-transform: uppercase; */
-}
-
-.wish-hbd span {
-    margin-right: 5px;
 }
 
 .wish h5 {
